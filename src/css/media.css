@@ -1,0 +1,206 @@
+@media (max-width: 1200px) {
+    .container {
+        max-width: 960px;
+    }
+    
+    .tabcontent-descr {
+        width: 450px;
+        right: -100px;
+    }
+}
+
+@media (max-width: 992px) {
+    .container {
+        max-width: 720px;
+    }
+    
+    .header {
+        padding: 0 20px;
+    }
+    
+    .header .left-block {
+        min-width: 400px;
+    }
+    
+    .tabcontent-descr {
+        width: 400px;
+        right: -50px;
+        padding: 30px;
+        font-size: 20px;
+    }
+    
+    .offer-advantages {
+        width: 300px;
+    }
+    
+    .offer-slider {
+        width: 500px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 540px;
+    }
+    
+    .header {
+        height: auto;
+        padding: 20px;
+    }
+    
+    .header .left-block {
+        flex-direction: column;
+        align-items: center;
+        min-width: auto;
+    }
+    
+    .header-links {
+        margin-top: 20px;
+    }
+    
+    .header-link {
+        margin-right: 20px;
+        font-size: 16px;
+    }
+    
+    .right-block {
+        margin-top: 20px;
+    }
+    
+    .tabcontainer {
+        flex-direction: column-reverse;
+        width: 100%;
+    }
+
+   
+
+
+    .offer .bgc-yellow {
+        width: 100%;
+    }
+
+    .btn-dark {
+        margin-top: 20px;;
+    }
+    
+    .tabcontent {
+        width: 100%;
+    }
+    
+    .tabcontent-descr {
+        display: none;
+        position: static;
+        width: 100%;
+        height: auto;
+        margin-top: 20px;
+    }
+    
+    .tabheader {
+        width: 100%;
+    }
+    
+    .offer .container {
+        flex-direction: column;
+    }
+    
+    .offer-text {
+        width: 100%;
+        text-align: center;
+    }
+    
+    .offer-advantages {
+        width: 100%;
+        margin-top: 30px;
+    }
+    
+    .offer-slider {
+        width: 100%;
+        margin-top: 30px;
+    }
+    
+    .menu .container {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .menu-item {
+        margin-bottom: 30px;
+    }
+    
+    .order-form {
+        flex-direction: column;
+        padding: 0 20px;
+    }
+    
+    .order-form img {
+        display: none;
+    }
+    
+    .form-input {
+        margin-bottom: 20px;
+    }
+    
+    .footer .wrapper {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .footer .pepper {
+        margin: 20px 0;
+    }
+    
+    .footer .call {
+        text-align: center;
+    }
+}
+
+@media (max-width: 576px) {
+    .container {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .sidepanel {
+        display: none;
+    }
+    
+    .header-link {
+        font-size: 14px;
+        margin-right: 10px;
+    }
+    
+    .btn {
+        width: 140px;
+        height: 30px;
+        font-size: 12px;
+    }
+    
+    .title {
+        font-size: 28px;
+    }
+    
+    .offer-descr {
+        font-size: 16px;
+    }
+    
+    .menu-item {
+        width: 100%;
+    }
+    
+    .modal-dialog {
+        margin: 20px;
+    }
+    
+    .modal-content {
+        padding: 20px;
+    }
+    
+    .modal-input {
+        width: 100%;
+    }
+    
+    .modal-btn {
+        width: 100%;
+    }
+} 
