@@ -1,4 +1,4 @@
-# Food Delivery Website
+# Food
 
 A modern and responsive website for a food delivery service. The website features a beautiful UI with interactive elements including:
 
@@ -32,12 +32,12 @@ A modern and responsive website for a food delivery service. The website feature
 
 ## Live Demo
 
-Visit the live website at: [Food Delivery Website](https://YOUR-USERNAME.github.io/food-delivery/)
+Visit the live website at: [Food](https://YOUR-USERNAME.github.io/Food/)
 
 ## Project Structure
 
 ```
-food-delivery/
+Food/
 ├── src/
 │   ├── css/
 │   │   ├── style.css
