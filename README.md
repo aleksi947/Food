@@ -32,4 +32,22 @@ A modern and responsive website for a food delivery service. The website feature
 
 ## Live Demo
 
-[Add your GitHub Pages link here after deployment] 
+Visit the live website at: [Food Delivery Website](https://YOUR-USERNAME.github.io/food-delivery/)
+
+## Project Structure
+
+```
+food-delivery/
+├── src/
+│   ├── css/
+│   │   ├── style.css
+│   │   └── media.css
+│   ├── js/
+│   │   └── script.js
+│   ├── icons/
+│   ├── img/
+│   └── index.html
+├── .gitignore
+├── README.md
+└── _config.yml
+``` 
