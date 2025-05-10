@@ -38,15 +38,14 @@ Visit the live website at: [Food](https://YOUR-USERNAME.github.io/Food/)
 
 ```
 Food/
-├── src/
-│   ├── css/
-│   │   ├── style.css
-│   │   └── media.css
-│   ├── js/
-│   │   └── script.js
-│   ├── icons/
-│   ├── img/
-│   └── index.html
+├── css/
+│   ├── style.css
+│   └── media.css
+├── js/
+│   └── script.js
+├── icons/
+├── img/
+├── index.html
 ├── .gitignore
 ├── README.md
 └── _config.yml
